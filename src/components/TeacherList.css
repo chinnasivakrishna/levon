@@ -1,0 +1,23 @@
+.teacher-list-container {
+  padding: 20px;
+}
+
+.teacher-list-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.teacher-list-table th,
+.teacher-list-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+.teacher-list-table th {
+  background-color: #f4f4f4;
+}
+
+.teacher-list-table tbody tr:hover {
+  background-color: #f1f1f1;
+}
