@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://levon-backend-6yla.onrender.com';
+const API_URL = 'https://levon-backend-6yla.onrender.com/';
 
 export const registerStudent = async (studentData) => {
   try {
